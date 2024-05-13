@@ -22,7 +22,7 @@ This chart bootstraps a [Redis&reg;](https://github.com/bitnami/containers/tree/
 
 Bitnami charts can be used with [Kubeapps](https://kubeapps.dev/) for deployment and management of Helm Charts in clusters.
 
-### Choose between Redis&reg; Helm Chart and Redis&reg; Cluster Helm Chart 
+### Choose between Redis&reg; Helm Chart and Redis&reg; Cluster Helm Chart  vv
 
 You can choose any of the two Redis&reg; Helm charts for deploying a Redis&reg; cluster.
 
